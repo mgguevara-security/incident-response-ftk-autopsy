@@ -34,19 +34,19 @@ Para garantizar que la evidencia sea admisible ante la ley, utilicé \*\*FTK Ima
 
 
 
-!\[Escritorio Forense](./imagenes/escritorio\_herramientas.png)
+![Escritorio Forense](./imagenes/escritorio_herramientas.png)
 
 \*Figura 1: Entorno de trabajo con FTK Imager y Autopsy.\*
 
 
 
-!\[Cadena de Custodia](./imagenes/cadena\_custodia.png)
+![Cadena de Custodia](./imagenes/cadena_custodia.png)
 
 \*Figura 2: Registro oficial de la evidencia y cadena de custodia.\*
 
 
 
-!\[Creando Imagen FTK](./imagenes/creando\_imagen\_ftk.png)
+![Creando Imagen FTK](./imagenes/creando_imagen_ftk.png)
 
 \*Figura 3: Proceso de adquisición de la imagen forense de la USB sospechosa.\*
 
@@ -70,7 +70,7 @@ Al analizar los \*\*archivos eliminados\*\*, logré recuperar documentos que el 
 
 
 
-!\[Analisis de Eliminados](./imagenes/analisis\_eliminados.png)
+![Analisis de Eliminados](./imagenes/analisis_eliminados.png)
 
 \*Figura 4: Recuperación de documentos críticos eliminados en Autopsy.\*
 
@@ -89,4 +89,5 @@ Este caso destaca la importancia de la \*\*seguridad física\*\* y el \*\*análi
 ---
 
 \*Este proyecto forma parte de mi formación en ciberseguridad y análisis forense digital.\*
+
 
